@@ -1,0 +1,37 @@
+/* body font */
+body {
+  font-family: "Fredoka", sans-serif;
+}
+/* body color */
+.body-color {
+  background-color: rgba(243, 239, 234, 0.904);
+}
+
+header h2 {
+  font-size: 50px;
+}
+/* main and header color */
+.main-color {
+  background-color: whitesmoke;
+}
+
+/* input field color */
+.field-color {
+  background-color: rgba(250, 235, 215, 0.534);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* all button color */
+.button-color {
+  color: black;
+  background-color: rgb(255, 214, 181);
+}
+
+/* card  color */
+.card-color {
+  background-color: antiquewhite;
+}
+
+.details-width {
+  width: 30%;
+}
